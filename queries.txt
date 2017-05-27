@@ -1,0 +1,57 @@
+//Task1
+
+db.sampledata.find(
+	{
+			scores: {
+					$elemMatch: {
+							score: {$gt: 87, $lt: 93}
+					}
+			}
+	}
+)
+
+//Print out results of query execution into task1.json
+
+mongo --quiet task3 --eval "printjson(db.sampledata.find(
+											{
+												scores: {
+													$elemMatch: {
+														score: {$gt: 87, $lt:93}
+													}
+												}
+											}).toArray())" > task1.json
+
+
+//Task2
+
+db.sampledata.aggregate( [
+		{	
+			$match: {
+				"scores.type": "exam",
+				"scores.score": {$gt: 90}
+			}
+		}, 
+		{
+			$unwind: "$scores"
+		}
+	] ).pretty()	
+									
+//Task3
+
+db.sampledata.update(
+                    {
+						"name": "Dusti Lemmond"
+					}, 
+					
+					{
+						$set: {"accepted": true}
+				    }
+				)			
+
+//Print out results of query execution into task3.json
+				
+mongo --quiet task3 --eval "printjson(db.sampledata.find(
+														{
+															name: 'Dusti Lemmond'
+														}
+													).toArray())" > task3.json

@@ -1,0 +1,160 @@
+[{                                                                               
+        "_id" : 4,                                                              
+        "name" : "Zachary Langlais",                                            
+        "scores" : {                                                            
+                "type" : "exam",                                                
+                "score" : 78.68385091304332                                     
+        }                                                                       
+}                                                                               
+{                                                                               
+        "_id" : 4,                                                              
+        "name" : "Zachary Langlais",                                            
+        "scores" : {                                                            
+                "type" : "quiz",                                                
+                "score" : 90.2963101368042                                      
+        }                                                                       
+}                                                                               
+{                                                                               
+        "_id" : 4,                                                              
+        "name" : "Zachary Langlais",                                            
+        "scores" : {                                                            
+                "type" : "homework",                                            
+                "score" : 34.41620148042529                                     
+        }                                                                       
+}                                                                               
+{                                                                               
+        "_id" : 4,                                                              
+        "name" : "Zachary Langlais",                                            
+        "scores" : {                                                            
+                "type" : "homework",                                            
+                "score" : 19.21886443577987                                     
+        }                                                                       
+}                                                                               
+{                                                                               
+        "_id" : 7,                                                              
+        "name" : "Salena Olmos",                                                
+        "scores" : {                                                            
+                "type" : "exam",                                                
+                "score" : 90.37826509157176                                     
+        }                                                                       
+}                                                                               
+{                                                                               
+        "_id" : 7,                                                              
+        "name" : "Salena Olmos",                                                
+        "scores" : {                                                            
+                "type" : "quiz",                                                
+                "score" : 42.48780666956811                                     
+        }                                                                       
+}                                                                               
+{                                                                               
+        "_id" : 7,                                                              
+        "name" : "Salena Olmos",                                                
+        "scores" : {                                                            
+                "type" : "homework",                                            
+                "score" : 67.18328596625217                                     
+        }                                                                       
+}                                                                               
+{                                                                               
+        "_id" : 7,                                                              
+        "name" : "Salena Olmos",                                                
+        "scores" : {                                                            
+                "type" : "homework",                                            
+                "score" : 96.52986171633331                                     
+        }                                                                       
+}                                                                               
+{                                                                               
+        "_id" : 9,                                                              
+        "name" : "Sanda Ryba",                                                  
+        "scores" : {                                                            
+                "type" : "exam",                                                
+                "score" : 97.00509953654694                                     
+        }                                                                       
+}                                                                               
+{                                                                               
+        "_id" : 9,                                                              
+        "name" : "Sanda Ryba",                                                  
+        "scores" : {                                                            
+                "type" : "quiz",                                                
+                "score" : 97.80449632538915                                     
+        }                                                                       
+}                                                                               
+{                                                                               
+        "_id" : 9,                                                              
+        "name" : "Sanda Ryba",                                                  
+        "scores" : {                                                            
+                "type" : "homework",                                            
+                "score" : 12.47568017314781                                     
+        }                                                                       
+}                                                                               
+{                                                                               
+        "_id" : 9,                                                              
+        "name" : "Sanda Ryba",                                                  
+        "scores" : {                                                            
+                "type" : "homework",                                            
+                "score" : 25.27368532432955                                     
+        }                                                                       
+}                                                                               
+{                                                                               
+        "_id" : 10,                                                             
+        "name" : "Denisha Cast",                                                
+        "scores" : {                                                            
+                "type" : "exam",                                                
+                "score" : 45.61876862259409                                     
+        }                                                                       
+}                                                                               
+{                                                                               
+        "_id" : 10,                                                             
+        "name" : "Denisha Cast",                                                
+        "scores" : {                                                            
+                "type" : "quiz",                                                
+                "score" : 98.35723209418343                                     
+        }                                                                       
+}                                                                               
+{                                                                               
+        "_id" : 10,                                                             
+        "name" : "Denisha Cast",                                                
+        "scores" : {                                                            
+                "type" : "homework",                                            
+                "score" : 19.31113429145131                                     
+        }                                                                       
+}                                                                               
+{                                                                               
+        "_id" : 10,                                                             
+        "name" : "Denisha Cast",                                                
+        "scores" : {                                                            
+                "type" : "homework",                                            
+                "score" : 55.90835657173456                                     
+        }                                                                       
+}                                                                               
+{                                                                               
+        "_id" : 13,                                                             
+        "name" : "Jessika Dagenais",                                            
+        "scores" : {                                                            
+                "type" : "exam",                                                
+                "score" : 90.47179954427436                                     
+        }                                                                       
+}                                                                               
+{                                                                               
+        "_id" : 13,                                                             
+        "name" : "Jessika Dagenais",                                            
+        "scores" : {                                                            
+                "type" : "quiz",                                                
+                "score" : 90.3001402468489                                      
+        }                                                                       
+}                                                                               
+{                                                                               
+        "_id" : 13,                                                             
+        "name" : "Jessika Dagenais",                                            
+        "scores" : {                                                            
+                "type" : "homework",                                            
+                "score" : 95.17753772405909                                     
+        }                                                                       
+}                                                                               
+{                                                                               
+        "_id" : 13,                                                             
+        "name" : "Jessika Dagenais",                                            
+        "scores" : {                                                            
+                "type" : "homework",                                            
+                "score" : 78.18795058912879                                     
+        }                                                                       
+}]                                                                
